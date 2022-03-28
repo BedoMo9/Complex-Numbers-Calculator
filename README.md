@@ -1,1 +1,1 @@
-# Complex-Numbers-Calculator
+# Program to calculate weekly payment
